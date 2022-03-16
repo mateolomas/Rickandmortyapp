@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  background-image: url("../../assets/images/backgroundCL.png");
+  color: white;
+}
+
+.navbar a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 1rem;
+}

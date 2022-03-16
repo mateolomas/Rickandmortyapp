@@ -1,0 +1,13 @@
+.cardcontainer {
+  display: flex;
+}
+
+.card {
+  background-color: black;
+  color: white;
+  padding: 50px;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin: 10px;
+  height: 50%;
+}
